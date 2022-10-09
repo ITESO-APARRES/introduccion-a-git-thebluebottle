@@ -1,5 +1,5 @@
 Esta es la primera prueba de uso de git
 
-Hola mundo 
+Hola mundo de git
 
-Brandon Mendoza
+Brandon Mendoza Medina
