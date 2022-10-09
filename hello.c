@@ -8,6 +8,9 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hola mundo\n");
+    decirHola("Hola brandon");
     return 0;
+}
+void decirHola(char* nombre) {
+    printf("hola %s, ¿como estas?", nombre);
 }
